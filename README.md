@@ -1,11 +1,7 @@
-# Multi-Step-Form
-Multi Step Form Register
+<h2>Multi Step Form Register</h2>
 
-View Form Step 1
-<a href="https://github.com/arihidayatm/Multi-Step-Form/blob/66a3a247c3ea98374a8188188ee4bac563c9087a/step1%20multi%20Step%20form.png"> </a>
+<img src="step1 multi Step form.png" class="img-fluid ${3|rounded-top,rounded-right,rounded-bottom,rounded-left,rounded-circle,|}" alt=" View Form Step 1" />
 
-View Form Step 2
-<a href="https://github.com/arihidayatm/Multi-Step-Form/blob/66a3a247c3ea98374a8188188ee4bac563c9087a/step2%20multi%20Step%20form.png"> </a>
+<img src="step2 multi Step form.png" class="img-fluid ${3|rounded-top,rounded-right,rounded-bottom,rounded-left,rounded-circle,|}" alt=" View Form Step 2" />
 
-View Form Step 3
-<a href="https://github.com/arihidayatm/Multi-Step-Form/blob/66a3a247c3ea98374a8188188ee4bac563c9087a/step3%20multi%20Step%20form.png"> </a>
+<img src="step3 multi Step form.png" class="img-fluid ${3|rounded-top,rounded-right,rounded-bottom,rounded-left,rounded-circle,|}" alt=" View Form Step 3" />
